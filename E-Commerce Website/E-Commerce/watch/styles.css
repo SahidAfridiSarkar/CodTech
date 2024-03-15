@@ -1,0 +1,160 @@
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar-catagory {
+    color: black;
+    font-family: Roboto;
+}
+
+.logo {
+    height: 40px;
+
+}
+
+.brand-name {
+    color: #28a745;
+    font-weight: bold;
+    font-size: 22px;
+}
+.slogan {
+    background-color: #67cf7f;
+    color: #ffffff;
+    height: 1.5vw;
+    font-size: 0.8vw;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3.6vw;
+}
+
+.page-heading{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.page-heading-dscp{
+    font-size: 12px;
+}
+
+.hoodie-card{
+    border-radius: 8px;
+    display: flex;
+    padding-left: 7px;
+    margin: 10px;
+}
+
+.product-photo{
+    height: 290px;
+}
+.product-details{
+    align-items: flex-start;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+    padding: 13px;
+    padding-left: 28px;
+}
+.product-details-head{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+}
+.product-rating{
+    font-size: 10px;
+    margin: 0;
+}
+
+.product-delivery{
+    font-size: 10px;
+    margin: 0;
+}
+
+.offer-count{
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#countdown {
+    font-size: 13px;
+    font-weight: bold;
+    color: red;
+}
+
+.offer-time{
+    font-size: 11px;
+    font-family: sans-serif;
+    background-color: red;
+    color: #ffffff;
+    text-align: center;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.product-size{
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+.product-details-price{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 1px;
+}
+.product-details-price-span{
+    text-decoration: line-through;
+    color: red;
+    font-size: 14px;
+    padding-left: 2px;
+    font-weight: normal;
+}
+
+.social {
+    text-align: center;
+    font-size: 1vw;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #67cf7f;
+    margin: 0;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 1.3vw;
+    letter-spacing: 1vw;
+}
+
+.social-section {
+    border-right: solid;
+    border-color: #535353;
+    padding-bottom: .5vw;
+}
+
+.bottom-section {
+    text-align: center;
+    border-top: solid;
+    border-color: #535353;
+    border-width: 0.1vw;
+    padding-top: .5vw;
+}
+
+.bottom-section-point {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+.point-details{
+    color: #ffffff;
+    margin: 0;
+    font-size: .8vw;
+}
+.contuct-section{
+    display: flex;
+    align-items: center;
+    justify-content:space-around
+}

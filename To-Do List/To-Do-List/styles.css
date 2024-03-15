@@ -1,0 +1,43 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: cadetblue;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container-add-task {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.pending-task{
+    border-right: 1px;
+}
+.
+
+.heading1{
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.btn-primary {
+    background-color: #3ae90e;
+    color: #ffffff;
+    border-style: none;
+    border-radius: 8px;
+    height: 28px;
+    margin-left: 10px;
+
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
